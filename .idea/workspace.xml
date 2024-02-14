@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64e0c6a8-7d13-487a-84b9-f4d62e4a71e5" name="Changes" comment="Second Commit">
-      <change afterPath="$PROJECT_DIR$/src/RectangleInfo.java" afterDir="false" />
+    <list default="true" id="64e0c6a8-7d13-487a-84b9-f4d62e4a71e5" name="Changes" comment="Third Commit">
+      <change afterPath="$PROJECT_DIR$/src/MetricConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   "keyToString": {
     "Application.CtoFConverter.executor": "Run",
     "Application.FuelCosts.executor": "Run",
+    "Application.MetricConverter.executor": "Run",
     "Application.RectangleInfo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707930271788</updated>
-      <workItem from="1707930272820" duration="5095000" />
+      <workItem from="1707930272820" duration="6154000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -90,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707934479362</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third Commit">
+      <option name="closed" value="true" />
+      <created>1707935708272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707935708272</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="Third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
   </component>
 </project>
